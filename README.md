@@ -26,9 +26,9 @@ You can <a href="mailto:jack.walker@yale.edu">email me</a> at jack [dot] walker 
     <li>Probed partisan polarization of "culture war" issues, finding that polarization on abortion and LGBTQ+ rights first occurred at the state level and as early as 1970–72; primarily responsible for literature review, archival data collection, and preparing related briefings.</li>
     <li>Presented findings at Summer Research Symposium at Columbia University in Oct 2023.</li>
   </ul>
-  Summer Research Assistant to Prof. Donald P. Green
+  Research Assistant to Prof. Donald P. Green
     <ul>
-    <li>Supported literature and citation review for <i>Get Out The Vote: How to Increase Voter Turnout</i>, Fifth Edition (in print Dec 2023); preliminarily trained an artificial intelligence interface to inform voters and assess candidate issue proximity; conducted literature review for work on political reservations in India.</li>
+    <li>Supported literature review for <i>Get Out The Vote: How to Increase Voter Turnout</i>, Fifth Edition (in print Dec 2023); preliminarily trained an artificial intelligence interface to inform voters and assess candidate issue proximity; conducted literature review for work on political reservations in India.</li>
   </ul>
 </details>
 
