@@ -35,7 +35,7 @@ You can <a href="mailto:jack.walker@yale.edu">email me</a> at jack [dot] walker 
 <details>
   <summary>Research grants awarded</summary>
   <br><ul>
-    <li>Columbia College Summer Research Fellowship, via the International Affairs Fellowship Fund ($3,400),  2023</li>
-    <li>Columbia University Center for Career Education, via the AIF Sub-Fund: Yemini Fund ($5,000),  2022</li>
+    <li>Columbia College Summer Research Fellowship, via the International Affairs Fellowship Fund ($3,400),  2023.</li>
+    <li>Columbia University Center for Career Education, via the AIF Sub-Fund: Yemini Fund ($5,000),  2022.</li>
   </ul>
 </details>
