@@ -9,26 +9,11 @@ I received my B.A. in political science and art history, *cum laude*, from Colum
 You can <a href="mailto:jack.walker@yale.edu">email me</a> at jack [dot] walker [at] yale [dot] edu. I tweet occasionally via <a href="https://twitter.com/walkerdjack" target="_blank" rel="noopener noreferrer">@walkerdjack</a>.
 
 <details>
-  <summary>Currently</summary>
-  <br><b>Yale University</b><br>
-  Pre-Doctoral Fellow
-  <ul>
-    <li>Conducting large-scale analysis of observational data; field, survey, and lab experiments; and mass and elite surveys for broad topics in behavioral research.</li>
-    <li>Participating in additional statistics coursework (audited), weekly professional development seminars, and departmental research seminars.</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Research experience</summary>
-  <br><b>Department of Political Science, Columbia University</b><br>
-  Research Fellow with Prof. Justin H. Phillips
-  <ul>
-    <li>Probed partisan polarization of "culture war" issues, finding that polarization on abortion and LGBTQ+ rights first occurred at the state level and as early as 1970–72; primarily responsible for literature review, archival data collection, and preparing related briefings.</li>
-    <li>Presented findings at Summer Research Symposium at Columbia University in Oct 2023.</li>
-  </ul>
-  Research Assistant to Prof. Donald P. Green
-    <ul>
-    <li>Supported literature review for <i>Get Out The Vote: How to Increase Voter Turnout</i>, Fifth Edition (in print Dec 2023); preliminarily trained an artificial intelligence interface to inform voters and assess candidate issue proximity; conducted literature review for work on political reservations in India.</li>
+  <summary>Research in progress</summary>
+  <br><ol>
+    <li value="3">“On the Stability and Uniqueness of Survey Measures of Personality Traits and Attitudes” (with Alan S. Gerber, Gregory A. Huber, and Mackenzie Lockhart).</li>
+    <li value="2">“Measuring the Effects of Campaign Events” (with Alan S. Geber, Gregory A. Huber, and Mackenzie Lockhart).</li>
+    <li value="1">“Do Some Debates Matter? Evidence from the 2024 Biden-Trump Debate" (with Alan S. Gerber, Gregory A. Huber, Mackenzie Lockhart, and Douglas Rivers).</li>
   </ul>
 </details>
 
