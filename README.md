@@ -11,9 +11,9 @@ You can <a href="mailto:jack.walker@yale.edu">email me</a> at jack [dot] walker 
 <details>
   <summary>Research in progress</summary>
   <br><ol>
-    <li value="3">“On the Stability and Uniqueness of Survey Measures of Personality Traits and Attitudes” (with Alan S. Gerber, Gregory A. Huber, and Mackenzie Lockhart).</li>
-    <li value="2">“Measuring the Effects of Campaign Events” (with Alan S. Geber, Gregory A. Huber, and Mackenzie Lockhart).</li>
-    <li value="1">“Do Some Debates Matter? Evidence from the 2024 Biden-Trump Debate" (with Alan S. Gerber, Gregory A. Huber, Mackenzie Lockhart, and Douglas Rivers).</li>
+    <li value="3">"On the Stability and Uniqueness of Survey Measures of Personality Traits and Attitudes" (with Alan S. Gerber, Gregory A. Huber, and Mackenzie Lockhart).</li>
+    <li value="2">"Measuring the Effects of Campaign Events" (with Alan S. Geber, Gregory A. Huber, and Mackenzie Lockhart).</li>
+    <li value="1">"Do Some Debates Matter? Evidence from the 2024 Biden-Trump Debate" (with Alan S. Gerber, Gregory A. Huber, Mackenzie Lockhart, and Douglas Rivers).</li>
   </ul>
 </details>
 
