@@ -4,6 +4,8 @@
 
 I'm a pre-doctoral fellow at Yale University working with Prof. Alan S. Gerber and Prof. Gregory A. Huber on behavioral research in American politics. I'm broadly interested in voting, public opinion, and <span style="white-space: nowrap;">(quasi-)experimental</span> methods. I'm affiliated with the <a href="https://isps.yale.edu" target="_blank" rel="noopener noreferrer">Institution for Social and Policy Studies</a>, the <a href="https://csap.yale.edu" target="_blank" rel="noopener noreferrer">Center for the Study of American Politics</a>, and the <a href="https://tobin.yale.edu" target="_blank" rel="noopener noreferrer">Tobin Center for Economic Policy</a>. 
 
+I help drive research on the Stanford-Arizona-Yale Presidential Election Study (SAY24) (*N*=130,000), in collaboration with YouGov, working on end-to-end survey design, experimental modules, data analysis, and manuscript preparation.
+
 I received my B.A. in political science and art history, *cum laude*, from Columbia University. At Columbia, I researched voting with Prof. Donald P. Green, polarization with Prof. Justin H. Phillips, and bureaucratic politics and separation of powers with Prof. Michael M. Ting.
 
 You can <a href="mailto:jack.walker@yale.edu">email me</a> at jack [dot] walker [at] yale [dot] edu. I tweet occasionally via <a href="https://twitter.com/walkerdjack" target="_blank" rel="noopener noreferrer">@walkerdjack</a>.
