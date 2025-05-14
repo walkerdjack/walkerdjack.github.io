@@ -8,7 +8,7 @@ I help drive research on the Stanford-Arizona-Yale Presidential Election Study (
 
 I received my B.A. in political science and art history, *cum laude*, from Columbia University. At Columbia, I researched voting with Prof. Donald P. Green, polarization with Prof. Justin H. Phillips, and bureaucratic politics and separation of powers with Prof. Michael M. Ting.
 
-You can <a href="mailto:jack.walker@yale.edu">email me</a> at jack [dot] walker [at] yale [dot] edu. I tweet occasionally via <a href="https://twitter.com/walkerdjack" target="_blank" rel="noopener noreferrer">@walkerdjack</a>. Connect with me on Linkedin <a href="https://linkedin.com/in/walkerdjack" target="_blank" rel="noopener noreferrer">here</a>.
+You can <a href="mailto:jack.walker@yale.edu">email me</a> at jack [dot] walker [at] yale [dot] edu. I tweet occasionally via <a href="https://twitter.com/walkerdjack" target="_blank" rel="noopener noreferrer">@walkerdjack</a>. Connect with me on LinkedIn <a href="https://linkedin.com/in/walkerdjack" target="_blank" rel="noopener noreferrer">here</a>.
 
 <details>
   <summary>Research in progress</summary>
