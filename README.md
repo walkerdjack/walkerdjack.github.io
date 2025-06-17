@@ -26,5 +26,3 @@ You can <a href="mailto:jack.walker@yale.edu">email me</a> at jack [dot] walker 
     <li>Columbia University Center for Career Education, via the AIF Sub-Fund: Yemini Fund ($5,000),  2022.</li>
   </ul>
 </details>
-
-Test: [Blog](./blog/)
