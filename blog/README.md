@@ -1,3 +1,3 @@
-# Test: Blog
+# Blog
 
-[Test post](./2025-06-17-test.md)
+* [Test post (17 Jun 2025)](./2025-06-17-test.md)
